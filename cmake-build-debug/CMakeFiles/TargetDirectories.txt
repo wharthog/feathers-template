@@ -1,0 +1,3 @@
+/Users/jakebattista/Downloads/feathers-cpp-client/cmake-build-debug/CMakeFiles/feathers-cpp-client.dir
+/Users/jakebattista/Downloads/feathers-cpp-client/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jakebattista/Downloads/feathers-cpp-client/cmake-build-debug/CMakeFiles/rebuild_cache.dir
